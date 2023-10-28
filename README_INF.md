@@ -14,4 +14,8 @@ Inside the Infrastructure folder, there will contains two different folder, whic
 
 Currently, I have create the docker compose file that contain postgresql database and pgadmin4 for database bench tool which is come in handy to perform database stuff. (I also provide mock data as well)
 
+## Docker as a data visualization
+
+Grafana are well known open-source for data visualization which are utilized in this project. I also applied docker compose for grafana which is lightweight and independent.
+
 There will be updating weekly. TBC
